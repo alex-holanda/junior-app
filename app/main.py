@@ -12,6 +12,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "https://seu-dominio.com",
+    "https://junior-frontend.onrender.com"
 ]
 
 
